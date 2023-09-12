@@ -1,0 +1,44 @@
+header {
+    background-color: white;
+
+    padding: 20px;
+    color: #B25229;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+  }
+
+  /* Logo styles */
+  .logo {
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .page-wrapper {
+    background-color: #EBD8D0;
+  }
+
+  .text-center {
+    vertical-align: middle;
+    padding-top: 10%;
+   
+
+  }
+
+  #loading {
+    border-style: solid;
+    border-color: #B25229;
+    margin-bottom: 10%;
+  }
+
+   #introText {
+    text-align: left;
+    color: #B25229;
+  }
+
+  .column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+    margin: 0 3% 0 3%;
+  }
